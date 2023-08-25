@@ -4,7 +4,7 @@
 [![Telegram Group](https://img.shields.io/endpoint?color=neon&label=Support%20Group&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fshahanpanel_gp)](https://t.me/shahanpanel_gp)
 
   
-# ShaHaN SSH Panel
+# T2TZ
 
 پنل مدیریت و فروش پروتکل ssh
 
@@ -62,7 +62,7 @@
 
 # Telegram Channel: 
 
-https://t.me/Shahanpanel
+https://t.me/t2tz
 
  # حمایت قلبی 
  
@@ -83,7 +83,7 @@ https://t.me/Shahanpanel
 *** به هیچ وجه برای نام کاربری پنل از یوزر Root استفاده نکنین .
 
 ````
-bash <(curl -Ls https://raw.githubusercontent.com/7hille/hill/master/install.sh --ipv4)
+bash <(curl -Ls https://raw.githubusercontent.com/t2tz/ssh/master/install.sh --ipv4)
 ````
 
 جهت آپدیت پنل نیز همان دستور بالا را وارد کرده ( یوزر و پسورد ادمین نیاز نیست - یوزر ها پاک نمیشوند ) 
@@ -98,13 +98,13 @@ bash <(curl -Ls https://raw.githubusercontent.com/7hille/hill/master/install.sh 
 
 
 ````
-bash <(curl -Ls https://raw.githubusercontent.com/7hille/hill/master/ssl.sh --ipv4)
+bash <(curl -Ls https://raw.githubusercontent.com/t2tz/ssh/master/ssl.sh --ipv4)
 ````
 
 # Block Iran IP Outgoing
 
 ````
-bash <(curl -Ls https://raw.githubusercontent.com/7hille/hill/master/newblockiran.sh --ipv4)
+bash <(curl -Ls https://raw.githubusercontent.com/t2tz/ssh/master/newblockiran.sh --ipv4)
 ````
 
 # Preview
