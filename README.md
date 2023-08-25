@@ -83,7 +83,7 @@ https://t.me/Shahanpanel
 *** به هیچ وجه برای نام کاربری پنل از یوزر Root استفاده نکنین .
 
 ````
-bash <(curl -Ls https://raw.githubusercontent.com/HamedAp/Ssh-User-management/master/install.sh --ipv4)
+bash <(curl -Ls https://raw.githubusercontent.com/7hille/hill/master/install.sh --ipv4)
 ````
 
 جهت آپدیت پنل نیز همان دستور بالا را وارد کرده ( یوزر و پسورد ادمین نیاز نیست - یوزر ها پاک نمیشوند ) 
@@ -98,13 +98,13 @@ bash <(curl -Ls https://raw.githubusercontent.com/HamedAp/Ssh-User-management/ma
 
 
 ````
-bash <(curl -Ls https://raw.githubusercontent.com/HamedAp/Ssh-User-management/master/ssl.sh --ipv4)
+bash <(curl -Ls https://raw.githubusercontent.com/7hille/hill/master/ssl.sh --ipv4)
 ````
 
 # Block Iran IP Outgoing
 
 ````
-bash <(curl -Ls https://raw.githubusercontent.com/HamedAp/Ssh-User-management/master/newblockiran.sh --ipv4)
+bash <(curl -Ls https://raw.githubusercontent.com/7hille/hill/master/newblockiran.sh --ipv4)
 ````
 
 # Preview
